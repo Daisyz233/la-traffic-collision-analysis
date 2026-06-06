@@ -8,9 +8,8 @@ The project focuses on a practical traffic safety question: **can collision seve
 
 ## Project Context
 
-This project was completed as a team class project for DSCI 550. The original report was authored by Yiling Chen, Ruiqi Wang, Dezhen Zhang, and Yunqi Zhu.
+This project was completed as a team class project for DSCI 550. 
 
-> **Note for portfolio use:** Update the `My Contributions` section below with your exact responsibilities before sharing this repository in job applications.
 
 ## Data Source
 
